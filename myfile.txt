@@ -1,4 +1,5 @@
 # heres some new stuff
 import numpy as np
-rand_x = np.random.rand(15
+rand_x = np.random.rand(15)
+print(rand_x)
 #lets get this party started
