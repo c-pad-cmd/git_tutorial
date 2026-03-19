@@ -1,3 +1,4 @@
+NEW MISTAKE!!!
 # heres some new stuff
 import numpy as np
 rand_x = np.random.rand(15)
